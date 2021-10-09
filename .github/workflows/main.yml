@@ -1,0 +1,16 @@
+on: [push, workflow_dispatch]
+
+jobs:
+  getPublications:
+    runs-on: ubuntu-latest
+    name: Get publications from ORCiD
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Get ORCiD publications
+        id: getOrcidPublications
+        uses: ./
+        with:
+          orcidId: "0000-0001-5293-4487"
+      - name: Shows number of publication and FilePath
+        run: echo "${{ steps.getOrcidPublications.outputs.numberOfPublications }} publications have been saved on ${{ steps.getOrcidPublications.outputs.filePath }}"

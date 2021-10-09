@@ -1,0 +1,27 @@
+name: "Get ORCiD publications"
+author: "Albert Álvarez-Carulla <hello@thealbert.dev>"
+description: "Get your publications from ORCiD and save it into a yml file in your repository"
+inputs:
+  orcidId:
+    description: "ORCiD id from which to obtain publications"
+    required: true
+    default: "0000-0000-0000-0000"
+  publicationsFilePath:
+    description: "Relative path where the `.yml` file with the publications is geneated"
+    required: false
+    default: ""
+  publicationsFileName:
+    description: "Name of the `.yml` file with the publications (without the extension)"
+    required: false
+    default: "PUBLICATIONS"
+outputs:
+  numberOfPublications:
+    description: "Number of publications obtained"
+  filePath:
+    description: "Path of the generated file"
+runs:
+  using: "node12"
+  main: "dist/index.js"
+branding:
+  icon: "file-text"
+  color: "green"

@@ -1,0 +1,19 @@
+{
+  "name": "get-orcid-publications-action",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "ncc build index.js --license licenses.txt",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@actions/core": "^1.6.0",
+    "@vercel/ncc": "^0.31.1",
+    "node-fetch": "^3.0.0",
+    "yaml": "^1.10.2"
+  }
+}
