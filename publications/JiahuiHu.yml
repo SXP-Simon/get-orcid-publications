@@ -1,0 +1,274 @@
+works:
+  - authors:
+      - Zhibo Wang
+      - Jingjing Ma
+      - Xue Wang
+      - Jiahui Hu
+      - Zhan Qin
+      - Kui Ren
+    journalTitle: ACM Computing Surveys
+    publicationDate:
+      day: "31"
+      month: "07"
+      year: "2023"
+    title:
+      value: "Threats to Training: A Survey of Poisoning Attacks and Defenses on
+        Machine Learning Systems"
+    type: journal-article
+    url: http://dx.doi.org/10.1145/3538707
+    doi: 10.1145/3538707
+  - authors:
+      - Zhibo Wang
+      - Jingxin Li
+      - Jiahui Hu
+      - Ju Ren
+      - Qian Wang
+      - Zhetao Li
+      - Yanjun Li
+    journalTitle: IEEE Transactions on Mobile Computing
+    publicationDate:
+      day: "01"
+      month: "02"
+      year: "2023"
+    title:
+      value: Towards Privacy-Driven Truthful Incentives for Mobile Crowdsensing Under
+        Untrusted Platform
+    type: journal-article
+    url: http://dx.doi.org/10.1109/tmc.2021.3093552
+    doi: 10.1109/tmc.2021.3093552
+  - authors:
+      - Zhibo Wang
+      - Kaixin Liu
+      - Jiahui Hu
+      - Ju Ren
+      - Hengchang Guo
+      - Wei Yuan
+    journalTitle: Chinese Journal of Electronics
+    publicationDate:
+      day: null
+      month: "01"
+      year: "2023"
+    title:
+      value: "AttrLeaks on the Edge: Exploiting Information Leakage from
+        Privacy-Preserving Co-inference"
+    type: journal-article
+    url: http://dx.doi.org/10.23919/cje.2022.00.031
+    doi: 10.23919/cje.2022.00.031
+  - authors:
+      - Zhibo Wang
+      - Wenxin Liu
+      - Jiahui Hu
+      - Hengchang Guo
+      - Zhan Qin
+      - Jian Liu
+      - Kui Ren
+    journalTitle: IEEE Transactions on Dependable and Secure Computing
+    publicationDate:
+      day: null
+      month: null
+      year: "2023"
+    title:
+      value: Label-free Poisoning Attack against Deep Unsupervised Domain Adaptation
+    type: journal-article
+    url: http://dx.doi.org/10.1109/tdsc.2023.3286608
+    doi: 10.1109/tdsc.2023.3286608
+  - authors:
+      - Zhibo Wang
+      - Yunan Sun
+      - Defang Liu
+      - Jiahui Hu
+      - Xiaoyi Pang
+      - Yuke Hu
+      - Kui Ren
+    journalTitle: IEEE Transactions on Mobile Computing
+    publicationDate:
+      day: null
+      month: null
+      year: "2023"
+    title:
+      value: Location Privacy-Aware Task Offloading in Mobile Edge Computing
+    type: journal-article
+    url: http://dx.doi.org/10.1109/tmc.2023.3254553
+    doi: 10.1109/tmc.2023.3254553
+  - authors:
+      - Zhibo Wang
+      - Xiaoyi Pang
+      - Peng Sun
+      - Jiahui Hu
+    journalTitle: Wireless Networks
+    publicationDate:
+      day: null
+      month: null
+      year: "2023"
+    title:
+      value: "User Privacy Protection in MCS: Threats, Solutions, and Open Issues"
+    type: book-chapter
+    url: http://dx.doi.org/10.1007/978-3-031-32397-3_13
+    doi: 10.1007/978-3-031-32397-3_13
+  - authors:
+      - Xuyang Ding
+      - Ruizhao Lv
+      - Xiaoyi Pang
+      - Jiahui Hu
+      - Zhibo Wang
+      - Xu Yang
+      - Xiong Li
+    journalTitle: Computers &amp; Electrical Engineering
+    publicationDate:
+      day: null
+      month: "01"
+      year: "2022"
+    title:
+      value: Privacy-preserving task allocation for edge computing-based mobile
+        crowdsensing
+    type: journal-article
+    url: http://dx.doi.org/10.1016/j.compeleceng.2021.107528
+    doi: 10.1016/j.compeleceng.2021.107528
+  - authors:
+      - Zhibo Wang
+      - Jing Zhao
+      - Jiahui Hu
+      - Tianqing Zhu
+      - Qian Wang
+      - Ju Ren
+      - Chao Li
+    journalTitle: IEEE Transactions on Mobile Computing
+    publicationDate:
+      day: "01"
+      month: "05"
+      year: "2021"
+    title:
+      value: Towards Personalized Task-Oriented Worker Recruitment in Mobile
+        Crowdsensing
+    type: journal-article
+    url: http://dx.doi.org/10.1109/tmc.2020.2973990
+    doi: 10.1109/tmc.2020.2973990
+  - authors:
+      - Jiahui Hu
+      - Zhibo Wang
+      - Jian Wei
+      - Ruizhao Lv
+      - Jing Zhao
+      - Qian Wang
+      - Honglong Chen
+      - Dejun Yang
+    journalTitle: IEEE Transactions on Wireless Communications
+    publicationDate:
+      day: null
+      month: "07"
+      year: "2020"
+    title:
+      value: Towards Demand-Driven Dynamic Incentive for Mobile Crowdsensing Systems
+    type: journal-article
+    url: http://dx.doi.org/10.1109/twc.2020.2988271
+    doi: 10.1109/twc.2020.2988271
+  - authors:
+      - Zhibo Wang
+      - Xiaoyi Pang
+      - Jiahui Hu
+      - Wenxin Liu
+      - Qian Wang
+      - Yanjun Li
+      - Honglong Chen
+    journalTitle: IEEE Communications Magazine
+    publicationDate:
+      day: null
+      month: "09"
+      year: "2019"
+    title:
+      value: When Mobile Crowdsensing Meets Privacy
+    type: journal-article
+    url: http://dx.doi.org/10.1109/mcom.001.1800674
+    doi: 10.1109/mcom.001.1800674
+  - authors:
+      - Zhibo Wang
+      - Jiahui Hu
+      - Ruizhao Lv
+      - Jian Wei
+      - Qian Wang
+      - Dejun Yang
+      - Hairong Qi
+    journalTitle: IEEE Transactions on Mobile Computing
+    publicationDate:
+      day: "01"
+      month: "06"
+      year: "2019"
+    title:
+      value: Personalized Privacy-Preserving Task Allocation for Mobile Crowdsensing
+    type: journal-article
+    url: http://dx.doi.org/10.1109/tmc.2018.2861393
+    doi: 10.1109/tmc.2018.2861393
+  - authors:
+      - Zhibo Wang
+      - Jingxin Li
+      - Jiahui Hu
+      - Ju Ren
+      - Zhetao Li
+      - Yanjun Li
+    journalTitle: IEEE INFOCOM 2019 - IEEE Conference on Computer Communications
+    publicationDate:
+      day: null
+      month: "04"
+      year: "2019"
+    title:
+      value: Towards Privacy-preserving Incentive for Mobile Crowdsensing Under An
+        Untrusted Platform
+    type: conference-paper
+    url: http://dx.doi.org/10.1109/infocom.2019.8737594
+    doi: 10.1109/infocom.2019.8737594
+  - authors:
+      - Zhibo Wang
+      - Jiahui Hu
+      - Qian Wang
+      - Ruizhao Lv
+      - Jian Wei
+      - Honglong Chen
+      - Xiaoguang Niu
+    journalTitle: IEEE Communications Magazine
+    publicationDate:
+      day: null
+      month: "02"
+      year: "2019"
+    title:
+      value: Task-Bundling-Based Incentive for Location-Dependent Mobile Crowdsourcing
+    type: journal-article
+    url: http://dx.doi.org/10.1109/mcom.2018.1700965
+    doi: 10.1109/mcom.2018.1700965
+  - authors:
+      - Zhibo Wang
+      - Jiahui Hu
+      - Jing Zhao
+      - Dejun Yang
+      - Honglong Chen
+      - Qian Wang
+    journalTitle: 2018 IEEE 38th International Conference on Distributed Computing
+      Systems (ICDCS)
+    publicationDate:
+      day: null
+      month: "07"
+      year: "2018"
+    title:
+      value: "Pay On-Demand: Dynamic Incentive and Task Selection for
+        Location-Dependent Mobile Crowdsensing Systems"
+    type: conference-paper
+    url: http://dx.doi.org/10.1109/icdcs.2018.00066
+    doi: 10.1109/icdcs.2018.00066
+  - authors:
+      - Zhibo Wang
+      - Ran Tan
+      - Jiahui Hu
+      - Jing Zhao
+      - Qian Wang
+      - Feng Xia
+      - Xiaoguang Niu
+    journalTitle: Computer Networks
+    publicationDate:
+      day: null
+      month: "02"
+      year: "2018"
+    title:
+      value: Heterogeneous incentive mechanism for time-sensitive and
+        location-dependent crowdsensing networks with random arrivals
+    type: journal-article
+    url: http://dx.doi.org/10.1016/j.comnet.2017.12.010
+    doi: 10.1016/j.comnet.2017.12.010
