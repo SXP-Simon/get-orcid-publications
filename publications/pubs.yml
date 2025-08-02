@@ -1,0 +1,321 @@
+works:
+  - authors:
+      - Minh Pham
+      - Yongke Yuan
+      - Hao Li
+      - Chengcheng Mou
+      - Yicheng Tu
+      - Zichen Xu
+      - Jinghan Meng
+    journalTitle: ACM Transactions on Parallel Computing
+    publicationDate:
+      day: "31"
+      month: "03"
+      year: "2025"
+    title:
+      value: "Dynamic Buffer Management in Massively Parallel Systems: The Power of
+        Randomness"
+    type: journal-article
+    url: https://doi.org/10.1145/3701623
+    doi: 10.1145/3701623
+  - authors:
+      - Yucheng Zhang
+      - Wenbin Zeng
+      - Hong Jiang
+      - Dan Feng
+      - Zichen Xu
+      - Shuibing He
+      - Mingzhe Zhang
+      - Dan Wu
+    journalTitle: ACM Transactions on Storage
+    publicationDate:
+      day: "05"
+      month: "03"
+      year: "2025"
+    title:
+      value: An Efficient Delta Compression Framework Seamlessly Integrated into
+        Inline Deduplication
+    type: journal-article
+    url: https://doi.org/10.1145/3721485
+    doi: 10.1145/3721485
+  - authors:
+      - Quan Zhang
+      - Chijin Zhou
+      - Gwihwan Go
+      - Binqi Zeng
+      - Heyuan Shi
+      - Zichen Xu
+      - Yu Jiang
+    journalTitle: null
+    publicationDate:
+      day: "27"
+      month: "10"
+      year: "2024"
+    title:
+      value: Imperceptible Content Poisoning in LLM-Powered Applications
+    type: conference-paper
+    url: https://doi.org/10.1145/3691620.3695001
+    doi: 10.1145/3691620.3695001
+  - authors:
+      - Tao Zeng
+      - Zichen Xu
+      - Dan Wu
+      - Xiaoling Li
+      - Biyong Liu
+      - Haichuan Hu
+      - Shuang Tan
+      - Yusong Tan
+      - Chenren Xu
+      - Christopher Stewart
+      - Qihe Zhou
+      - Ye Cao
+    journalTitle: "Software: Practice and Experience"
+    publicationDate:
+      day: null
+      month: "10"
+      year: "2024"
+    title:
+      value: Exploring nonintrusive measurements of spatio‐temporal portrait of
+        microservices
+    type: journal-article
+    url: https://doi.org/10.1002/spe.3234
+    doi: 10.1002/spe.3234
+  - authors:
+      - Ke Xu
+      - Hanxiao Yi
+      - Zichen Xu
+      - Dan Wu
+    journalTitle: null
+    publicationDate:
+      day: "05"
+      month: "07"
+      year: "2024"
+    title:
+      value: Data-driven Contribution-based Disciplinary Assessment System
+    type: conference-paper
+    url: https://doi.org/10.1145/3674399.3674423
+    doi: 10.1145/3674399.3674423
+  - authors:
+      - Haichuan Hu
+      - Fangming Liu
+      - Qiangyu Pei
+      - Yongjie Yuan
+      - Zichen Xu
+      - Lin Wang
+    journalTitle: null
+    publicationDate:
+      day: "13"
+      month: "05"
+      year: "2024"
+    title:
+      value: "λGrapher: A Resource-Efficient Serverless System for GNN Serving through
+        Graph Sharing"
+    type: conference-paper
+    url: https://doi.org/10.1145/3589334.3645383
+    doi: 10.1145/3589334.3645383
+  - authors:
+      - Zichen Xu
+      - Shaolei Ren
+      - Omer Rana
+    journalTitle: IEEE Transactions on Sustainable Computing
+    publicationDate:
+      day: null
+      month: "05"
+      year: "2024"
+    title:
+      value: Editorial
+    type: journal-article
+    url: https://doi.org/10.1109/TSUSC.2023.3336230
+    doi: 10.1109/TSUSC.2023.3336230
+  - authors:
+      - Yunxiao Du
+      - Zichen Xu
+      - Kanqi Zhang
+      - Jie Liu
+      - Christopher Stewart
+      - Jiacheng Huang
+    journalTitle: IEEE Transactions on Cloud Computing
+    publicationDate:
+      day: "01"
+      month: "04"
+      year: "2023"
+    title:
+      value: Cost-Effective Strong Consistency on Scalable Geo-Diverse Data Replicas
+    type: journal-article
+    url: https://doi.org/10.1109/TCC.2022.3161297
+    doi: 10.1109/TCC.2022.3161297
+  - authors:
+      - Jie Cheng
+      - Lu Lian
+      - Zichen Xu
+      - Dan Wu
+      - Haoyang Zhu
+      - Xiao Sun
+      - Yuhao Wang
+    journalTitle: Neural Computing and Applications
+    publicationDate:
+      day: null
+      month: "02"
+      year: "2023"
+    title:
+      value: "Geo-SPS: bipartite graph representation for GeoSpatial prenatal survey
+        data"
+    type: journal-article
+    url: https://doi.org/10.1007/s00521-021-06371-2
+    doi: 10.1007/s00521-021-06371-2
+  - authors:
+      - Wenting Zou
+      - Li Li
+      - Zichen Xu
+      - Dan Wu
+      - ChengZhong Xu
+      - Yuhao Wang
+      - Haoyang Zhu
+      - Xiao Sun
+    journalTitle: Neural Computing and Applications
+    publicationDate:
+      day: null
+      month: "02"
+      year: "2023"
+    title:
+      value: "SmartDL: energy-aware decremental learning in a mobile-based federation
+        for geo-spatial system"
+    type: journal-article
+    url: https://doi.org/10.1007/s00521-021-06378-9
+    doi: 10.1007/s00521-021-06378-9
+  - authors:
+      - Jin Li
+      - Wanyun Li
+      - Zichen Xu
+      - Yuhao Wang
+      - Qiegen Liu
+    journalTitle: IEEE Transactions on Multimedia
+    publicationDate:
+      day: null
+      month: null
+      year: "2023"
+    title:
+      value: Wavelet Transform-Assisted Adaptive Generative Modeling for Colorization
+    type: journal-article
+    url: https://doi.org/10.1109/TMM.2022.3177933
+    doi: 10.1109/TMM.2022.3177933
+  - authors:
+      - Yuheng Shen
+      - Yiru Xu
+      - Hao Sun
+      - Jianzhong Liu
+      - Zichen Xu
+      - Aiguo Cui
+      - Heyuan Shi
+      - Yu Jiang
+    journalTitle: IEEE Transactions on Computer-Aided Design of Integrated Circuits
+      and Systems
+    publicationDate:
+      day: null
+      month: "11"
+      year: "2022"
+    title:
+      value: "Tardis: Coverage-Guided Embedded Operating System Fuzzing"
+    type: journal-article
+    url: https://doi.org/10.1109/TCAD.2022.3198910
+    doi: 10.1109/TCAD.2022.3198910
+  - authors:
+      - Feilong Zuo
+      - Zhengxiong Luo
+      - Junze Yu
+      - Ting Chen
+      - Zichen Xu
+      - Aiguo Cui
+      - Yu Jiang
+    journalTitle: IEEE Transactions on Computer-Aided Design of Integrated Circuits
+      and Systems
+    publicationDate:
+      day: null
+      month: "11"
+      year: "2022"
+    title:
+      value: Vulnerability Detection of ICS Protocols via Cross-State Fuzzing
+    type: journal-article
+    url: https://doi.org/10.1109/TCAD.2022.3201471
+    doi: 10.1109/TCAD.2022.3201471
+  - authors:
+      - Zichen Xu
+      - Jie Zhou
+      - Wenli Zheng
+      - Yuhao Wang
+      - Minyi Guo
+    journalTitle: IEEE Transactions on Mobile Computing
+    publicationDate:
+      day: "01"
+      month: "06"
+      year: "2022"
+    title:
+      value: Exploiting big.LITTLE Batteries for Software Defined Management on Mobile
+        Devices
+    type: journal-article
+    url: https://doi.org/10.1109/TMC.2020.3035236
+    doi: 10.1109/TMC.2020.3035236
+  - authors:
+      - Xiuxiu Wang
+      - Yipei Niu
+      - Fangming Liu
+      - Zichen Xu
+    journalTitle: IEEE Transactions on Cloud Computing
+    publicationDate:
+      day: "01"
+      month: "04"
+      year: "2022"
+    title:
+      value: "When FPGA Meets Cloud: A First Look at Performance"
+    type: journal-article
+    url: https://doi.org/10.1109/TCC.2020.2992548
+    doi: 10.1109/TCC.2020.2992548
+  - authors:
+      - Zichen Xu
+      - Gele Bai
+      - Ao Cui
+      - Shasha Wang
+    journalTitle: CCF Transactions on High Performance Computing
+    publicationDate:
+      day: "21"
+      month: "03"
+      year: "2021"
+    title:
+      value: Power-aware throughput control for containerized relational operation
+    type: journal-article
+    url: https://doi.org/10.1007/s42514-020-00061-6
+    doi: 10.1007/s42514-020-00061-6
+  - authors:
+      - Fengqin Zhang
+      - Minghui Zhang
+      - Binjie Qin
+      - Yi Zhang
+      - Zichen Xu
+      - Dong Liang
+      - Qiegen Liu
+    journalTitle: IEEE Transactions on Radiation and Plasma Medical Sciences
+    publicationDate:
+      day: null
+      month: "01"
+      year: "2021"
+    title:
+      value: "REDAEP: Robust and Enhanced Denoising Autoencoding Prior for Sparse-View
+        CT Reconstruction"
+    type: journal-article
+    url: https://doi.org/10.1109/TRPMS.2020.2989634
+    doi: 10.1109/TRPMS.2020.2989634
+  - authors:
+      - Haoyang Zhu
+      - Xiaoyong Li
+      - Qiang Liu
+      - Zichen Xu
+    journalTitle: IEEE Transactions on Knowledge and Data Engineering
+    publicationDate:
+      day: "01"
+      month: "07"
+      year: "2020"
+    title:
+      value: Top-k Dominating Queries on Skyline Groups
+    type: journal-article
+    url: https://doi.org/10.1109/TKDE.2019.2904065
+    doi: 10.1109/TKDE.2019.2904065
