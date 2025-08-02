@@ -18,12 +18,12 @@ jobs:
         uses: TheAlbertDev/get-orcid-publications@v0.1.0
         with:
           # ORCiD id of the user (required)
-          orcidId: "0000-0001-9293-8028"
+          orcidId: "0000-0001-8771-7474"
           # Relative path where the publications file will be generated
           # (optional, default: './')
           publicationsFilePath: "publications/"
           # Filename without extension (optional, default: 'PUBLICATIONS')
-          publicationsFileName: "pubs"
+          publicationsFileName: "JiahuiHu"
         # The action outputs the number of publications retrieved from ORCiD
         # and the FilenamePath of the generated file
       - name: Shows number of publication and FilePath
