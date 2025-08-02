@@ -1,0 +1,30 @@
+# The action is triggered on a push, manually from the Actions tab,
+# and periodically every Sunday
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: 0 0 * * 0
+
+jobs:
+  getPublications:
+    runs-on: ubuntu-latest
+    name: Get publications from ORCiD
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Get ORCiD publications
+        id: getOrcidPublications
+        uses: TheAlbertDev/get-orcid-publications@v0.1.0
+        with:
+          # ORCiD id of the user (required)
+          orcidId: "0000-0001-9293-8028"
+          # Relative path where the publications file will be generated
+          # (optional, default: './')
+          publicationsFilePath: "publications/"
+          # Filename without extension (optional, default: 'PUBLICATIONS')
+          publicationsFileName: "ZichenXu"
+        # The action outputs the number of publications retrieved from ORCiD
+        # and the FilenamePath of the generated file
+      - name: Shows number of publication and FilePath
+        run: echo "${{ steps.getOrcidPublications.outputs.numberOfPublications }} publications have been saved on ${{ steps.getOrcidPublications.outputs.filePath }}"
