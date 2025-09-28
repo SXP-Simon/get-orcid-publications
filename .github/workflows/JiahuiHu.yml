@@ -1,10 +1,7 @@
 # The action is triggered on a push, manually from the Actions tab,
 # and periodically every Sunday
 on:
-  push:
   workflow_dispatch:
-  schedule:
-    - cron: 0 0 * * 0
 
 jobs:
   getPublications:
